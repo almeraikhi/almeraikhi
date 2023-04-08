@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**almeraikhi/almeraikhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mohammed Almeraikhi, a software consultant and engineer.\
+I have worked on various projects that targeted specific use cases and automated the business logic of others.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [oent.io](https://www.oent.io/), a creative writing app that organizes a writer's story like never before.
+- ⚡ Skills Showcase: I have a [public repository](https://github.com/almeraikhi/cade-zamora) that showcases my skills in NextJs, React, tRPC, prisma, minio and docker.
+- 👯 I’m looking to collaborate with enterprises as a software consultant to solve their unique problems, and to expand my knowledge to new solutions and approaches.
+- 📫 How to reach me:
+  -  [Personal Website](almeraikhi.me)
+  -  [Blog](https://plusreturn.com/)
+  -  [Linkedin](https://www.linkedin.com/in/mohammed-al-meraikhi/)
+  -  [Twitter](https://twitter.com/myalmeraikhi)
+  -  [Instagram](https://instagram.com/myalmeraikhi)
+  
+  
+Let us get in touch and create something wonderful together!
